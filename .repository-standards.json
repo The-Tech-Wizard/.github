@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 2,
+  "profile": "account-default",
+  "account": "The-Tech-Wizard",
+  "centralRepository": "https://github.com/The-Tech-Wizard/.github",
+  "licence": {
+    "class": "open-source",
+    "identifier": "MIT",
+    "rightsHolder": "Repository Contributors",
+    "decisionStatus": "approved",
+    "templateVersion": null,
+    "overrideReason": null
+  },
+  "supportRoute": "github-discussions",
+  "conductRoute": "confidential-email"
+}

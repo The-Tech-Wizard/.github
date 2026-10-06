@@ -1,0 +1,8 @@
+# Repository-specific ownership. This file is not inherited.
+* @The-Tech-Wizard/repository-governance
+
+/.github/ @The-Tech-Wizard/repository-governance
+/CODE_OF_CONDUCT.md @The-Tech-Wizard/repository-governance
+/CONTRIBUTING.md @The-Tech-Wizard/repository-governance
+/SECURITY.md @The-Tech-Wizard/repository-governance
+/SUPPORT.md @The-Tech-Wizard/repository-governance
