@@ -1,9 +1,9 @@
-<!-- repository-standard: schema=1; standard=Repository Standards; version=1.0.0; owner=The-Tech-Wizard; source=https://github.com/The-Tech-Wizard/.github/blob/main/SUPPORT.md; scope=account-default; override=local-file -->
+<!-- repository-standard: schema=1; standard=Repository Standards; version=1.2.0; owner=The-Tech-Wizard; source=https://github.com/The-Tech-Wizard/.github/blob/main/SUPPORT.md; scope=account-default; override=local-file -->
 # Support
 
 ## Questions & Usage Help
 
-Use [GitHub Discussions Q&A](https://github.com/The-Tech-Wizard/.github/discussions/categories/q-a) for installation, configuration, usage, & troubleshooting questions.
+Use the repository's question issue form for installation, configuration, usage, & troubleshooting questions. Search existing issues first & include only public-safe information.
 
 ## Bug Reports
 
